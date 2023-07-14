@@ -1,0 +1,28 @@
+#contact iframe
+{
+    width: 100%;
+}
+.sei_la{
+    border: 1px solid rgba(0, 173, 173, 0.61);
+}
+.sei_la img{
+    width: 100%
+}
+.filmes_cabecalho{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.filmes_cabecalho i{
+    float: right;
+}
+.filmstext span{
+    color: rgb(255, 251, 0);
+}
+.filmstext img{
+    width: 750px;
+}
+.livro{
+    margin-bottom: 20px;
+}
